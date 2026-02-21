@@ -1,0 +1,4 @@
+__pycache__/
+models/random_forest_model.pkl
+data/flight_data.csv
+*.pyc
